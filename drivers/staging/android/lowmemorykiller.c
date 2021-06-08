@@ -50,6 +50,7 @@
 
 #ifdef CONFIG_SEC_DEBUG_LMK_COUNT_INFO
 #define OOM_COUNT_READ
+#define OOM_COUNT_READ
 #endif
 
 #ifdef LMK_COUNT_READ
